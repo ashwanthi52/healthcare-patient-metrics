@@ -19,15 +19,15 @@ To analyze healthcare patient data and identify trends in demographics, diseases
 ## Outcome
 Generated insights about patient demographics and healthcare trends.
 
-## dataset
+## Dataset
 the dataset contains patient information including age,gender,disease,treatment cost,and outcome.
 
-## analysis performed 
+## Analysis performed 
 -age distribution
 -disease analysis
 -treatment cost analysis
 -patient outcome analysis
 
-## conclusion
+## Conclusion
 this project analyzes healthcare patient metrics and provides insightes into common diseaseas and treatment costs.
 
