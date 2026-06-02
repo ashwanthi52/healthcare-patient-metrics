@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Disease,Admission_Days,Treatment_Cost,Outcome
+1,25,Female,Diabetes,5,5000,Recovered
+2,40,Male,Heart Disease,8,12000,Recovered
+3,35,Female,Asthma,3,3000,Recovered
+4,50,Male,Diabetes,6,7000,Recovered
+5,28,Female,Fever,2,1500,Recovered
+6,60,Male,Hypertension,7,9000,Under Treatment
+7,45,Female,Heart Disease,9,15000,Recovered
+8,32,Male,Asthma,4,3500,Recovered
+9,55,Female,Diabetes,5,6500,Recovered
+10,38,Male,Fever,2,1800,Recovered
+11,47,Female,Hypertension,6,8500,Recovered
+12,29,Male,Asthma,3,3200,Recovered
+13,65,Female,Heart Disease,10,18000,Under Treatment
+14,42,Male,Diabetes,5,6000,Recovered
+15,31,Female,Fever,1,1200,Recovered
+16,58,Male,Hypertension,8,10000,Recovered
+17,36,Female,Asthma,4,3400,Recovered
+18,52,Male,Heart Disease,9,16000,Under Treatment
+19,27,Female,Fever,2,1700,Recovered
+20,48,Male,Diabetes,6,7200,Recovered
